@@ -6,7 +6,7 @@ public class Cls2 {
 	@Test(priority = 10)
 	public void third() {
 		// TODO Auto-generated method stub
-		//in change done
+		//some changes made here
 System.out.println("five");
 System.out.println("cls2 1st "+Thread.currentThread().getId());
 	}
