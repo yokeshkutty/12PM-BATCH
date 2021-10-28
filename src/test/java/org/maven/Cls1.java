@@ -22,6 +22,7 @@ System.out.println("cls1 " + c);
 	@Test(priority =0 )
 public void the() {
 	// TODO Auto-generated method stub
+		//its too done
 System.out.println("three");
 long m = Thread.currentThread().getId();
 System.out.println("cls1 " + m);
